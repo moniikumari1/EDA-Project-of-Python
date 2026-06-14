@@ -1,1 +1,1 @@
-# EDA-Project-of-Python
+Retail Bussiness Sales Analysis Project
